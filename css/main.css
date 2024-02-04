@@ -112,6 +112,7 @@ header .container nav ul .nav .link {
     color: black;
     width: 100%;
     padding: 10px 0;
+    z-index: 1;
 }
 
 .container nav ul .nav .link::before {
